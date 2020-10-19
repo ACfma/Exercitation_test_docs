@@ -1,1 +1,1 @@
-from Square.version import __version__
+from Squareup.version import __version__
