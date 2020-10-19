@@ -6,7 +6,7 @@ Created on Mon Oct 19 16:23:36 2020
 """
 import unittest
 
-from Square.core import square
+from Squareup.core import square
 
 class TestCore(unittest.TestCase):
     '''Testing the core'''
