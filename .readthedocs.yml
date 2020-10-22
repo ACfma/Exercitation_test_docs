@@ -22,7 +22,7 @@ python:
   version: 3.7
   install:
 <<<<<<< HEAD
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
     
 =======
     - requirements: requirements.txt
