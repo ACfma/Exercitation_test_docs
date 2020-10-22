@@ -154,15 +154,3 @@ man_pages = [
     (master_doc, package_name, u'Squareup Documentation',
      [author], 1)
 ]
-
-
-# -- Options for Texinfo output ----------------------------------------------
-
-# Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
-#texinfo_documents = [
-#    (master_doc, 'splrand', u'splrand Documentation',
-#     author, 'splrand', 'One line description of project.',
-#     'Miscellaneous'),
-#]
