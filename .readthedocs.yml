@@ -21,5 +21,9 @@ formats:
 python:
   version: 3.7
   install:
+<<<<<<< HEAD
     - requirements: docs/requirements.txt
     
+=======
+    - requirements: requirements.txt
+>>>>>>> 0daf63907ab64b0f613ed42e174e9b1cd9f7e01a
