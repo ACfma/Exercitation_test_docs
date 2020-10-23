@@ -38,6 +38,9 @@ release = '0.0.1'
 extensions = ['sphinx.ext.autodoc'
 ]
 
+#Add this or reathedocs will try to find configuration instead of index.
+master_doc = 'index'
+  
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
